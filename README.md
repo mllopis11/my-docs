@@ -6,3 +6,4 @@ Documents | Comments
 
 # Links
 https://jlordiales.me/ Development the way it should be !
+http://www.robertomarchetto.com/java_rest_api_best_practices_spring_boot springboot project structure
