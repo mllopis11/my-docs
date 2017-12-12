@@ -13,3 +13,4 @@ docker run -d -p 4000:80 *tag-name* | Run app in detached mode (-d), mapping mac
 
 ### Links
 https://www.metal3d.org/ Blog en francais (Docker, Angular ...)
+https://medium.com/dot-debug/running-chrome-in-a-docker-container-a55e7f4da4a8 Chrome in a container
