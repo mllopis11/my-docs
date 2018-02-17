@@ -7,3 +7,4 @@ Documents | Comments
 # Links
 https://jlordiales.me/ Development the way it should be !
 http://www.robertomarchetto.com/java_rest_api_best_practices_spring_boot springboot project structure
+http://www.yegor256.com/2015/09/07/maven-repository-amazon-s3.html AWS S3 as Private Maven Repository
