@@ -14,6 +14,7 @@ Documents | Comments
 - https://blog.talanlabs.com/microservices-partie-5-spring-cloud/ (SpringCloud)
 - http://javaetmoi.com/tag/spring-cloud/ (SpringCloud)
 - https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do (SpringCloud MicroService)
+- http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html (SpringCloud MicroService)
 
 ## AWS
 - http://www.yegor256.com/2015/09/07/maven-repository-amazon-s3.html (AWS S3 as Private Maven Repository)
