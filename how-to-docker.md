@@ -12,10 +12,9 @@ docker container stop *Container NAME or ID* | Stop a container
 docker run -d -p 4000:80 *tag-name* | Run app in detached mode (-d), mapping machine’s port 4000 to the container’s port 80 (-p)
 
 ## Images
-### Scality S3 server
-* S3Server (AWS): https://hub.docker.com/r/scality/s3server/
+### Scality S3 server [DockerHub](https://hub.docker.com/r/scality/s3server/)
 
-The default access key is accessKey1, with the secret key verySecretKey1
+The default access key is _accessKey1_, with the secret key _verySecretKey1_
 
 Run s3 server with a file backend on port 8000:
 ```bash
