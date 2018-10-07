@@ -9,7 +9,7 @@ docker build -t *tag-name* | Creates a Docker image tagged (-t) with friendly na
 docker images | Docker image registry
 docker rm *Container NAME or ID* | Remove an image
 docker ps -a | List containers details
-docker [container] ls | List the running containers
+docker ps *or* docker container ls  | List the running containers
 docker start *Container NAME or ID* | Start an existing container image
 docker stop *Container NAME or ID* | Stop a container
 docker run -d -p 4000:80 *tag-name* | Run app in detached mode (-d), mapping machine’s port 4000 to the container’s port 80 (-p) and create a new container identified with the *tag-name*
