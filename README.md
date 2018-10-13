@@ -17,6 +17,7 @@ Documents | Comments
 - http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html (SpringCloud MicroService)
 - http://blog.ippon.fr/2015/10/14/rex-architecture-orientee-microservices-avec-netflix-oss-et-spring-article-1/ (SpringCloud MicroService)
 - https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/ (rest controller valadation)
+- https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/ (SpringCloud)
 
 ## AWS
 - http://www.yegor256.com/2015/09/07/maven-repository-amazon-s3.html (AWS S3 as Private Maven Repository)
