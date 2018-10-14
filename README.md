@@ -2,9 +2,9 @@
 
 Documents | Comments
 ------------ | -------------
-[how-to-docker](https://github.com/mike-the-bike/how-to/blob/master/how-to-docker.md) | Docker documentation
+[docker](https://github.com/mike-the-bike/how-to/blob/master/docker.md) | Docker command summary and popular docket images
 
-# Links
+# Miscellaneous Links
 - https://jlordiales.me/ (Development the way it should be !)
 - https://www.draw.io (Flow web-based drawing) 
 
