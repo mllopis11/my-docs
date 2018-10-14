@@ -3,7 +3,7 @@
 Documents | Comments
 ------------ | -------------
 [Amazon S3](https://github.com/mike-the-bike/how-to/blob/master/amazon-s3.md) | Amazon S3 (Simple Storage Service)
-[docker](https://github.com/mike-the-bike/how-to/blob/master/docker.md) | Docker command summary and popular docket images
+[Docker](https://github.com/mike-the-bike/how-to/blob/master/docker.md) | Docker command summary and popular docket images
 
 ## Miscellaneous Links
 - [Development the way it should be! (blog)](https://jlordiales.me/)
