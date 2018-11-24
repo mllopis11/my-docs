@@ -39,11 +39,11 @@ $ docker start s3server[-men]
 
 Create an in-memory mongodb container named *mongo-mem*
 ```bash
-$ docker run --name mongo-mem -d mongo
+$ docker run -d --name mongo-mem -p 27017:27017 mongo
 ```
 Create an mongodb container with a docker volumes (local directory: ${HOME}/DevLab/docker/volumes/mongo) mapped to the default MongoDb directory (/data/db) in the container
 ```bash
-$ docker run --name mongo-db -d -v ${HOME}/DevLab/docker/volumes/mongo:/data/db mongo
+$ docker run -d --name mongo-db -p 27017:27017 -v ${HOME}/DevLab/docker/volumes/mongo:/data/db mongo
 ```
 
 ### ElasticSearch
