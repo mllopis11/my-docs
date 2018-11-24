@@ -4,7 +4,8 @@
 ## Commands
 Command | comments
 ------------ | -------------
-docker --version | Docker version
+docker version | Docker version
+docker info | Docker info
 docker build -t *tag-name* | Creates a Docker image tagged (-t) with friendly name
 docker images | Docker image registry
 docker rm *Container NAME or ID* | Remove an image
@@ -13,6 +14,7 @@ docker ps *or* docker container ls  | List the running containers
 docker start *Container NAME or ID* | Start an existing container image
 docker stop *Container NAME or ID* | Stop a container
 docker run -d -p 4000:80 *tag-name* | Run app in detached mode (-d), mapping machine’s port 4000 to the container’s port 80 (-p) and create a new container identified with the *tag-name*
+docker exec -it *name* sh | Go into the container and start a shell 
 
 ## Images
 ### Scality S3 server [DockerHub](https://hub.docker.com/r/scality/s3server/)
@@ -33,7 +35,18 @@ $ docker stop s3server[-mem]
 $ docker start s3server[-men]
 ```
 
-## ElasticSearch
+### MongoDB [DockerHub](https://hub.docker.com/_/mongo/)
+
+Create an in-memory mongodb container named *mongo-mem*
+```bash
+$ docker run --name mongo-mem -d mongo
+```
+Create an mongodb container with a docker volumes (local directory: ${HOME}/DevLab/docker/volumes/mongo) mapped to the default MongoDb directory (/data/db) in the container
+```bash
+$ docker run --name mongo-db -d -v ${HOME}/DevLab/docker/volumes/mongo:/data/db mongo
+```
+
+### ElasticSearch
 Start ElasticSearch image
 
 ```bash
