@@ -2,7 +2,6 @@
 # How-To: SpringBoot and SpringCloud
 
 ## Links
-- http://www.robertomarchetto.com/java_rest_api_best_practices_spring_boot (springboot project structure)
 - https://blog.talanlabs.com/microservices-partie-4-spring-boot (SpringBoot microservice basics)
 - https://blog.talanlabs.com/microservices-partie-5-spring-cloud/ (SpringCloud)
 - http://javaetmoi.com/tag/spring-cloud/ (SpringCloud)
