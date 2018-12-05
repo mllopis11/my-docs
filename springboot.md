@@ -11,4 +11,4 @@
 - http://blog.ippon.fr/2015/10/14/rex-architecture-orientee-microservices-avec-netflix-oss-et-spring-article-1/ (SpringCloud MicroService)
 - https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/ (rest controller valadation)
 - https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/ (SpringCloud)
-
+- https://github.com/kbastani/spring-boot-graph-processing-example (PageRank Analytics Platform Project)
