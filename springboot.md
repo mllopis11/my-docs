@@ -1,6 +1,9 @@
 
 # How-To: SpringBoot and SpringCloud
 
+## Ouath2
+- [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
+
 ## Links
 - https://blog.talanlabs.com/microservices-partie-4-spring-boot (SpringBoot microservice basics)
 - https://blog.talanlabs.com/microservices-partie-5-spring-cloud/ (SpringCloud)
