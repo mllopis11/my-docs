@@ -4,7 +4,10 @@
 ## Ouath2
 - [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
 
-## Links
+## Baeldung Tutorials
+- [Spring Cloud Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
+
+## Misc. Links
 - https://blog.talanlabs.com/microservices-partie-4-spring-boot (SpringBoot microservice basics)
 - https://blog.talanlabs.com/microservices-partie-5-spring-cloud/ (SpringCloud)
 - http://javaetmoi.com/tag/spring-cloud/ (SpringCloud)
