@@ -1,6 +1,9 @@
 
 # How-To: SpringBoot and SpringCloud
 
+## SpringCloud
+- [SpringCloud by Pivotal](https://spring.io/projects/spring-cloud)
+
 ## Netflix
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
 - [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
