@@ -6,6 +6,7 @@
 ## Netflix
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
 - [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
+- [Eureka: Secure Discovery Service](https://dzone.com/articles/secure-discovery-with-spring-cloud-netflix-eureka)
 
 ## Baeldung Tutorials
 - [Spring Cloud Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
