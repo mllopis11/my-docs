@@ -12,6 +12,9 @@
 - [Spring Cloud Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
 - [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
 
+## Extension
+- [ConfigSever: AWS S3 as BackEnd](https://github.com/mwnorman/spring-cloud-config-server-s3)
+
 ## Misc. Links
 - https://blog.talanlabs.com/microservices-partie-4-spring-boot (SpringBoot microservice basics)
 - https://blog.talanlabs.com/microservices-partie-5-spring-cloud/ (SpringCloud)
