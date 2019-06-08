@@ -2,7 +2,8 @@
 # How-To: SpringBoot and SpringCloud
 
 ## Netflix
-- [Understanding Eureka Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
+- [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
+- [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
 
 ## Baeldung Tutorials
 - [Spring Cloud Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
@@ -17,5 +18,4 @@
 - http://blog.ippon.fr/2015/10/14/rex-architecture-orientee-microservices-avec-netflix-oss-et-spring-article-1/ (SpringCloud MicroService)
 - https://blog.ippon.fr/2018/02/13/spring-cloud-feign-et-la-gestion-des-erreurs/ (Feign Error Handler)
 - https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/ (rest controller valadation)
-- https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/ (SpringCloud)
 - https://github.com/kbastani/spring-boot-graph-processing-example (PageRank Analytics Platform Project)
