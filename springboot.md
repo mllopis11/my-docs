@@ -1,8 +1,7 @@
 
 # How-To: SpringBoot and SpringCloud
 
-## SpringCloud
-- [SpringCloud by Pivotal](https://spring.io/projects/spring-cloud)
+[Spring Project References (Pivotal)](https://spring.io/projects)
 
 ## Netflix
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
