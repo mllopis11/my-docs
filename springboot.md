@@ -1,5 +1,5 @@
 
-# How-To: SpringBoot and SpringCloud
+# Spring Projects 
 
 [Spring Project References (Pivotal)](https://spring.io/projects)
 
