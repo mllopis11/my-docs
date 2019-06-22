@@ -3,6 +3,9 @@
 
 [Spring Project References (Pivotal)](https://spring.io/projects)
 
+## OAuth2
+- [SpringBoot2 with OAuth2](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/)
+
 ## Netflix
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
 - [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
