@@ -4,7 +4,8 @@
 [Spring Project References (Pivotal)](https://spring.io/projects)
 
 ## OAuth2
-- [SpringBoot2 with OAuth2](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/)
+- [SpringBoot2 with OAuth2 integration](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/)
+- [SpringBoot2 and OAuth2 authorization and revocation](https://pattern-match.com/blog/2019/02/12/springboot2-and-oauth2-authorization-and-revocation/)
 
 ## Netflix
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
