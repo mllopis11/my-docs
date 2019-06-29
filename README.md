@@ -1,5 +1,5 @@
 # Wiki
-Visit [Wiki]() for more documentation. 
+Visit [Wiki](https://github.com/mike-the-bike/how-to/wiki) for more documentation. 
 
 # How-To
 - [Amazon S3 (Simple Storage Service)](https://github.com/mike-the-bike/how-to/blob/master/amazon-s3.md)
