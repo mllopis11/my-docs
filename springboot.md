@@ -9,6 +9,8 @@
 
 - [Spring Guide: Springboot OAuth2 (Git Authentication)](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 
+- [BCrypt-Online-Tool: BCryt password encoder](https://www.devglan.com/online-tools/bcrypt-hash-generator)
+
 ## Netflix
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
 - [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
