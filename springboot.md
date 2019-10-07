@@ -21,6 +21,7 @@
 - [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
 
 ## API (REST)
+- https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html (RESTFull API Design)
 - https://farazdagi.com/2014/rest-and-long-running-jobs/ (REST and long-running jobs)
 - https://blog.ippon.fr/2018/02/13/spring-cloud-feign-et-la-gestion-des-erreurs/ (Feign Error Handler)
 - https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/ (rest controller valadation)
