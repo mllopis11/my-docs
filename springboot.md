@@ -21,15 +21,16 @@
 - [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
 
 ## API (REST)
-- https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html (RESTFull API Design)
+- [RESTFull API Design](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html) [[GIT]](https://github.com/jloisel/spring-boot-hazelcast)
 - https://farazdagi.com/2014/rest-and-long-running-jobs/ (REST and long-running jobs)
 - https://blog.ippon.fr/2018/02/13/spring-cloud-feign-et-la-gestion-des-erreurs/ (Feign Error Handler)
 - https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/ (rest controller valadation)
 
 ## Extensions
 - [ConfigSever: AWS S3 as BackEnd](https://github.com/mwnorman/spring-cloud-config-server-s3)
-
+- 
 ## Micro-Services
+- https://octoperf.com/blog/2018/06/12/spring-boot-hazelcast-tutorial/ (Hazelcast: Leader Election)
 - https://blog.talanlabs.com/microservices-partie-4-spring-boot (SpringBoot microservice basics)
 - https://blog.talanlabs.com/microservices-partie-5-spring-cloud/ (SpringCloud)
 - http://javaetmoi.com/tag/spring-cloud/ (SpringCloud)
