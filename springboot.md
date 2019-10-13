@@ -4,20 +4,25 @@
 [Spring Project References (Pivotal)](https://spring.io/projects)
 
 ## Tutorials
-- [Spring Cloud Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
-- [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
-- [SpringCloud & Hazelcast: Leader Election](https://octoperf.com/blog/2018/06/12/spring-boot-hazelcast-tutorial/) [[GIT]](https://github.com/jloisel/spring-boot-hazelcast)
+- [Spring-Cloud: Baeldung Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
+- [Spring-Boot: REST API+OAuth2+Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
+- [Spring-Cloud: Hazelcast (Leader Election)](https://octoperf.com/blog/2018/06/12/spring-boot-hazelcast-tutorial/) [[GIT]](https://github.com/jloisel/spring-boot-hazelcast)
+- [Spring-Cloud: AWS S3 as ConfigServer BackEnd](https://github.com/mwnorman/spring-cloud-config-server-s3)
+- [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
+- [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
+- [Eureka: Secure Discovery Service](https://dzone.com/articles/secure-discovery-with-spring-cloud-netflix-eureka)
+
+## API (REST)
+- [RESTFull API Design](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html)
+- [RESTFull & Long running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
+- [Feign Error Handler](https://blog.ippon.fr/2018/02/13/spring-cloud-feign-et-la-gestion-des-erreurs/)
+- [REST controller validation](https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/)
 
 ## OAuth2
 - [Pattern-Match: SpringBoot2 with OAuth2 integration #1](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/)
 - [Pattern-Match: SpringBoot2 and OAuth2 authorization and revocation #2](https://pattern-match.com/blog/2019/02/12/springboot2-and-oauth2-authorization-and-revocation/)
 - [Spring Guide: Springboot OAuth2 (Git Authentication)](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 - [BCrypt-Online-Tool: BCryt password encoder](https://www.devglan.com/online-tools/bcrypt-hash-generator)
-
-## Netflix
-- [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
-- [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
-- [Eureka: Secure Discovery Service](https://dzone.com/articles/secure-discovery-with-spring-cloud-netflix-eureka)
 
 ## Micro-Services
 - [SpringBoot microservice basics](https://blog.talanlabs.com/microservices-partie-4-spring-boot)
@@ -27,12 +32,3 @@
 - http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html (SpringCloud MicroService)
 - http://blog.ippon.fr/2015/10/14/rex-architecture-orientee-microservices-avec-netflix-oss-et-spring-article-1/ (SpringCloud MicroService)
 - https://github.com/kbastani/spring-boot-graph-processing-example (PageRank Analytics Platform Project)
-
-## API (REST)
-- [RESTFull API Design](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html)
-- [RESTFull & Long running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
-- [Feign Error Handler](https://blog.ippon.fr/2018/02/13/spring-cloud-feign-et-la-gestion-des-erreurs/)
-- [REST controller validation](https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/)
-
-## Extensions
-- [ConfigServer: AWS S3 as BackEnd](https://github.com/mwnorman/spring-cloud-config-server-s3)
