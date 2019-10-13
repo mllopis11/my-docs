@@ -10,6 +10,7 @@
 - [Spring-Cloud: AWS S3 as ConfigServer BackEnd](https://github.com/mwnorman/spring-cloud-config-server-s3)
 - [Eureka: Understanding Client-Server Communication](https://github.com/Netflix/eureka/wiki/Understanding-eureka-client-server-communication)
 - [Eureka: Eureka does not deregister instances](https://thepracticaldeveloper.com/2017/06/28/how-to-fix-eureka-taking-too-long-to-deregister-instances/)
+- [Eureka: Problems with Spring Boot Eureka EIP Binding? Kill those Zombies.](https://allthingsjava.io/pages/category/Eureka)
 - [Eureka: Secure Discovery Service](https://dzone.com/articles/secure-discovery-with-spring-cloud-netflix-eureka)
 
 ## API (REST)
