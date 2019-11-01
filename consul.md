@@ -44,13 +44,33 @@ $ docker logs c1
 We can list all the members of a Consul cluster by asking one of our Containers:
 ```bash
 $ docker exec -t c1 consul members
+Node          Address          Status  Type    Build  Protocol  DC   Segment
+2b2a8540d452  172.18.0.3:8301  alive   server  1.6.1  2         dc1  <all>
+456f224d8105  172.18.0.2:8301  alive   server  1.6.1  2         dc1  <all>
+f41d904bb892  172.18.0.4:8301  alive   server  1.6.1  2         dc1  <all>
 ```
 
 ## Step 3: Add Additional Agents
 
 You can visit the Consul UI accessible on port 8500 via this link: http://0.0.0.0:8500/ui
 
-![Consul UI](./images/consul-ui.png)
+![ScreenShot: Consul UI](./images/consul-ui.png)
 
 **CONGRATULATION: You now have a Consul cluster running as Docker containers.**
 
+## Simulate Outage: Kill an agent
+
+We can simulate a network outage or machine failure, by killing the _c2_ agent:
+```bash
+$ docker kill c2
+```
+
+After a couple of seconds, the heartbeat and health check will fail. The state of the member will change from _active_ to _failed_.
+If this node was elected the leader then another election would have taken place.
+```bash
+$ docker exec -t c1 consul members
+Node          Address          Status  Type    Build  Protocol  DC   Segment
+2b2a8540d452  172.18.0.3:8301  alive   server  1.6.1  2         dc1  <all>
+456f224d8105  172.18.0.2:8301  failed  server  1.6.1  2         dc1  <all>
+f41d904bb892  172.18.0.4:8301  alive   server  1.6.1  2         dc1  <all>
+```
