@@ -46,4 +46,9 @@ We can list all the members of a Consul cluster by asking one of our Containers:
 $ docker exec -t c1 consul members
 ```
 
-**Congratulation:** You now have a Consul cluster running as Docker containers.
+## Step 3: Add Additional Agents
+
+You can visit the Consul UI accessible on port 8500 via this link: http://0.0.0.0:8500/ui
+
+**CONGRATULATION: You now have a Consul cluster running as Docker containers.**
+
