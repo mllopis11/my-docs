@@ -17,7 +17,7 @@ To make the UI accessible we tell Consul to bind to the locahost IP (127.0.0.1).
 Because we haven't told this agent to join a cluster, it will create one for us.
 
 ```bash
-$ docker run -d --name consul-agent-dev-1 -h agent-dev-1 -p 8500:8500 consul agent -dev -ui -client=0.0.0.0
+$ docker run -d --name consul-agent-dev-1 -h agent-dev-1 -e CONSUL_BIND_INTERFACE=eth0 -p 8500:8500 consul agent -dev -ui -client=0.0.0.0
 ```
 
 We use Docker to obtain the IP address of the first container we started. It should be in the 172.18.0.0 range.
@@ -34,10 +34,10 @@ Agents register using the provided the IP address of how to communicate with ano
 
 We start two additional agents (_consul-agent-dev-2 and consul-agent-dev-3_) and tell them how to locate the cluster (_-join=$JOIN_IP_).
 ```bash
-$ docker run -d --name consul-agent-dev-2 -h agent-dev-2 consul agent -dev -bind=0.0.0.0 -join=$JOIN_IP
+$ docker run -d --name consul-agent-dev-2 -h agent-dev-2 -e CONSUL_BIND_INTERFACE=eth0 consul agent -dev -ui -client=0.0.0.0 -join=$JOIN_IP
 ```
 ```bash
-$ docker run -d --name consul-agent-dev-3 -h agent-dev-3 consul agent -dev -bind=0.0.0.0 -join=$JOIN_IP
+$ docker run -d --name consul-agent-dev-3 -h agent-dev-3 -e CONSUL_BIND_INTERFACE=eth0 consul agent -dev -ui -client=0.0.0.0 -join=$JOIN_IP
 ```
 
 We now have a Consul cluster running on our Docker daemon. You can see the communicate and events via the logs:
@@ -47,7 +47,7 @@ $ docker logs consul-agent-dev-1
 
 We can list all the members of a Consul cluster by asking one of our Containers:
 ```bash
-$ docker exec -t c1 consul members
+$ docker exec -t consul-agent-dev-1 consul members
 Node          Address          Status  Type    Build  Protocol  DC   Segment
 2b2a8540d452  172.18.0.3:8301  alive   server  1.6.1  2         dc1  <all>
 456f224d8105  172.18.0.2:8301  alive   server  1.6.1  2         dc1  <all>
@@ -62,11 +62,11 @@ You can visit the Consul UI accessible on port 8500 via this link: http://localh
 
 **CONGRATULATION: You now have a Consul cluster running as Docker containers.**
 
-## Simulate Outage: Kill an agent
+## Simulate Outage: Stop an agent
 
 We can simulate a network outage or machine failure, by killing the _consul-agent-dev-2_ agent:
 ```bash
-$ docker kill consul-agent-dev-2
+$ docker stop consul-agent-dev-2
 ```
 
 After a couple of seconds, the heartbeat and health check will fail. The state of the member will change from _active_ to _failed_.
