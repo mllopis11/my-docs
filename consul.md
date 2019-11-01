@@ -23,7 +23,7 @@ $ docker run -d --name consul-agent-dev-1 -h agent-dev-1 -p 8500:8500 consul age
 We use Docker to obtain the IP address of the first container we started. It should be in the 172.18.0.0 range.
 
 ```bash
-$ JOIN_IP=$(docker inspect --format '{{ .NetworkSettings.IPAddress }}' c1); echo $JOIN_IP
+$ JOIN_IP=$(docker inspect --format '{{ .NetworkSettings.IPAddress }}' consul-agent-dev-1); echo $JOIN_IP
 172.18.0.2
 ```
 
@@ -64,9 +64,9 @@ You can visit the Consul UI accessible on port 8500 via this link: http://localh
 
 ## Simulate Outage: Kill an agent
 
-We can simulate a network outage or machine failure, by killing the _c2_ agent:
+We can simulate a network outage or machine failure, by killing the _consul-agent-dev-2_ agent:
 ```bash
-$ docker kill c2
+$ docker kill consul-agent-dev-2
 ```
 
 After a couple of seconds, the heartbeat and health check will fail. The state of the member will change from _active_ to _failed_.
