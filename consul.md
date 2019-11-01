@@ -50,7 +50,7 @@ $ docker exec -t c1 consul members
 
 You can visit the Consul UI accessible on port 8500 via this link: http://0.0.0.0:8500/ui
 
-![Consul UI](https://github.com/mike-the-bike/how-to/blob/master/images/consul-ui.png)
+![Consul UI](./images/consul-ui.png)
 
 **CONGRATULATION: You now have a Consul cluster running as Docker containers.**
 
