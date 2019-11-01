@@ -4,6 +4,10 @@ Start a primary Consul agent which others will connect too. Each of these agents
 In production, each of the containers would run on different machines. The agents will form the initial cluster and Consul Quorum 
 for ensuring data stored is consistent and remains available after outages.
 
+**Prerequisites**
+
+You must have [Docker](https://www.docker.com/) installed. See [Docker Hub](https://hub.docker.com/) for Docker Desktop installation and tutorials (free registration)
+
 ## Step 1: Start Primary Agent 
 
 We use the official Docker image (consul:latest) and provide the arguments _agent -dev_. 
