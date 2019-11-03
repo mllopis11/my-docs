@@ -6,7 +6,7 @@ for ensuring data stored is consistent and remains available after outages.
 
 **Prerequisites**
 
-You must have [Docker](https://www.docker.com/) installed. See [Docker Hub](https://hub.docker.com/) for Docker Desktop installation and tutorials (free registration)
+* [Docker](https://www.docker.com/): visit [Docker Hub](https://hub.docker.com/) for Docker Desktop installation and tutorials (free registration)
 
 ## Step 1: Start Primary Agent 
 
