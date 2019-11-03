@@ -1,6 +1,6 @@
 # Consul cluster using Docker
 
-Start a primary Consul agent which others will connect too. Each of these agents will run as separate containers on the same node. 
+Start a primary [Consul](https://www.consul.io/) agent which others will connect too. Each of these agents will run as separate containers on the same node. 
 In production, each of the containers would run on different machines. The agents will form the initial cluster and Consul Quorum 
 for ensuring data stored is consistent and remains available after outages.
 
