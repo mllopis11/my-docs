@@ -50,7 +50,7 @@ $ docker run -d --name mongo-db -p 27017:27017 -v ${HOME}/DevLab/docker/volumes/
 Start ElasticSearch image
 
 ```bash
-$ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "cluster.name=angry-mike" -e "node.name=es-master" docker.elastic.co/elasticsearch/elasticsearch:6.2.1
+$ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "cluster.name=es-mike" -e "node.name=es-single" docker.elastic.co/elasticsearch/elasticsearch:7.4.2
 ```
 
 ## Links
