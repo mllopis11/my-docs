@@ -47,10 +47,10 @@ $ docker run -d --name mongo-db -p 27017:27017 -v ${HOME}/DevLab/docker/volumes/
 ```
 
 ### ElasticSearch
-Start ElasticSearch image
 
+Start a single-node (es-master) Elasticsearch cluster (es-mike) for development or testing and creates a container names *es7-mem*
 ```bash
-$ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "cluster.name=es-mike" -e "node.name=es-single" docker.elastic.co/elasticsearch/elasticsearch:7.4.2
+$ docker run -d --name es7-mem -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "cluster.name=es-mike" -e "node.name=es-master" docker.elastic.co/elasticsearch/elasticsearch:7.4.2
 ```
 
 ## Links
