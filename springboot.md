@@ -3,6 +3,8 @@
 
 [Spring Project References (Pivotal)](https://spring.io/projects)
 
+[Spring Cloud Desendettement (French)](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/)
+
 ## Tutorials
 - [Spring-Cloud: Baeldung Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
 - [Spring-Boot: REST API+OAuth2+Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
