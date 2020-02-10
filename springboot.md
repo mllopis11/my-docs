@@ -2,7 +2,7 @@
 # Spring Projects 
 
 [Spring Project References (Pivotal)](https://spring.io/projects)
-
+[Spring Cloud (Java&Moi): Many things about spring framework](http://javaetmoi.com/tag/spring-cloud
 [Spring Cloud Desendettement (French)](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/)
 
 ## Tutorials
@@ -32,7 +32,6 @@
 ## Micro-Services
 - [SpringBoot microservice basics](https://blog.talanlabs.com/microservices-partie-4-spring-boot)
 - [SpringCloud microservice basics](https://blog.talanlabs.com/microservices-partie-5-spring-cloud/)
-- http://javaetmoi.com/tag/spring-cloud/ (SpringCloud)
 - https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do (SpringCloud MicroService)
 - http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html (SpringCloud MicroService)
 - http://blog.ippon.fr/2015/10/14/rex-architecture-orientee-microservices-avec-netflix-oss-et-spring-article-1/ (SpringCloud MicroService)
