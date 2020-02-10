@@ -2,7 +2,7 @@
 # Spring Projects 
 
 [Spring Project References (Pivotal)](https://spring.io/projects)
-[Spring Cloud (Java&Moi): Many things about spring framework](http://javaetmoi.com/tag/spring-cloud
+[Spring Cloud (Java&Moi): Many things about spring framework](http://javaetmoi.com/tag/spring-cloud)
 [Spring Cloud Desendettement (French)](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/)
 
 ## Tutorials
