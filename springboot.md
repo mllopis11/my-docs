@@ -6,7 +6,8 @@
 - [Spring Cloud Desendettement (French)](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/)
 
 ## Tutorials
-- [Spring-Boot: Dynamic Job Scheduling with Quartz](https://juliuskrah.com/tutorial/2017/09/26/dynamic-job-scheduling-with-quartz-and-spring/) [[GIT]](https://github.com/juliuskrah/quartz-manager/tree/master)
+- [Quartz: Spring Quartz eample with History](https://github.com/hawk1234/spring-quartz-example)
+- [Quartz: Dynamic Job Scheduling](https://juliuskrah.com/tutorial/2017/09/26/dynamic-job-scheduling-with-quartz-and-spring/) [[GIT]](https://github.com/juliuskrah/quartz-manager/tree/master)
 - [Spring-Cloud: Baeldung Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
 - [Spring-Boot: REST API+OAuth2+Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular) [[GIT]](https://github.com/Baeldung/spring-security-oauth)
 - [Spring-Cloud: Hazelcast (Leader Election)](https://octoperf.com/blog/2018/06/12/spring-boot-hazelcast-tutorial/) [[GIT]](https://github.com/jloisel/spring-boot-hazelcast)
