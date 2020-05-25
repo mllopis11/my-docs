@@ -1,15 +1,15 @@
 # FrontEnd (UI) Technologies
 
 ## Javascript resources
-- [NodeJS](https://nodejs.org/) Javascript Runtime 
-- [Npm](https://www.npmjs.com) Package manager 
-- [Yarn](https://yarnpkg.com/) Package manager
-- [Typescript](https://www.typescriptlang.org/) Typed JavaScript
+- [NodeJS](https://nodejs.org/) _Javascript Runtime_
+- [Npm](https://www.npmjs.com) _Package manager_
+- [Yarn](https://yarnpkg.com/) _Package manager_
+- [Typescript](https://www.typescriptlang.org/) _Typed JavaScript_
 
 ## CSS
-- [Bootstrap](https://getbootstrap.com/) Official documentation. Build fast, responsive sites with Bootstrap
-- [Bootswatch](https://bootswatch.com/) Free themes for Bootstrap
-- [Bootsnipp](https://bootsnipp.com/) Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
+- [Bootstrap](https://getbootstrap.com/) _Official documentation. Build fast, responsive sites with Bootstrap_
+- [Bootswatch](https://bootswatch.com/)  _Free themes for Bootstrap_
+- [Bootsnipp](https://bootsnipp.com/)    _Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework_
 
 ## [React _(Facebook)_](https://reactjs.org/) 
 - [React and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/) *Spring official documentation*
@@ -20,5 +20,5 @@
 ## [Vue _(Alternative)_](https://vuejs.org/)
 
 ## Other Frameworks
-- [Express JS](https://expressjs.com) NodeJS MVC framework
+- [Express JS](https://expressjs.com) _NodeJS MVC framework_
 
