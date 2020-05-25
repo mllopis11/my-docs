@@ -16,6 +16,8 @@
 - [React and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/) *Spring official documentation*
 - [Spring Boot and React Java Full Stack Application](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application) [[GIT]](https://github.com/in28minutes/spring-boot-react-fullstack-examples/tree/master/spring-boot-react-crud-full-stack-with-maven)
 
+- [React University (Youtube)](https://www.youtube.com/channel/UCx4a8EMmXx-6RuJlyAKASoQ) _React Advanced Programing_ 
+
 ## [Angular _(Google)_](https://angularjs.org/)
 
 ## [Vue _(Alternative)_](https://vuejs.org/)
