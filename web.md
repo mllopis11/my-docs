@@ -9,7 +9,7 @@
 ## CSS
 - [Bootstrap](https://getbootstrap.com/) Official documentation. Build fast, responsive sites with Bootstrap
 - [Bootswatch](https://bootswatch.com/) Free themes for Bootstrap
-- [Bootsnipp](https://bootsnipp.com/) Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework]
+- [Bootsnipp](https://bootsnipp.com/) Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
 
 ## [React _(Facebook)_](https://reactjs.org/) 
 - [React and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/) *Spring official documentation*
