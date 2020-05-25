@@ -7,7 +7,8 @@
 - [Typescript](https://www.typescriptlang.org/) _Typed JavaScript_
 
 ## CSS
-- [Bootstrap](https://getbootstrap.com/) _Official documentation. Build fast, responsive sites with Bootstrap_
+- [Bootstrap](https://getbootstrap.com/) _Build fast, responsive sites with Bootstrap (Official documentation)_
+- [Bootstrap Table](https://bootstrap-table.com/) _Bootstrap table extension (Official documentation)_
 - [Bootswatch](https://bootswatch.com/)  _Free themes for Bootstrap_
 - [Bootsnipp](https://bootsnipp.com/)    _Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework_
 
