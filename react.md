@@ -4,7 +4,7 @@
 ## Pre-Requisites
 - [NodeJS](https://nodejs.org/) _required_ Javascript Runtime
 - [Yarn](https://yarnpkg.com/) _optional_ You can use _npm_ instead
-- [VisualStudio Code (a.k.a.: VSCode)](https://code.visualstudio.com/) _optional_ You can use any Editor that support Typescript
+- [VSCode](https://code.visualstudio.com/) _optional_ You can use any Editor that support Typescript
 
 ## Initialize React Application with Typescript
 
