@@ -2,7 +2,7 @@
 [Homepage](https://reactjs.org/)
 
 ## Pre-Requisites
-- [NodeJS](https://nodejs.org/) _required_ Javascript Runtime
+- [NodeJS](https://nodejs.org/) _required_ Javascript Runtime Engine
 - [Yarn](https://yarnpkg.com/) _optional_ You can use _npm_ instead
 - [VSCode](https://code.visualstudio.com/) _optional_ You can use any Editor that support Typescript
 
