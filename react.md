@@ -1,7 +1,9 @@
 # How-To React
 
 ## Pre-Requisites
-- Require NodeJS
+- [NodeJS](https://nodejs.org/) _required_
+- [Yarn](https://yarnpkg.com/) _optional_
+- [VisualStudio Code (a.k.a.: VSCode](https://code.visualstudio.com/) _optional_
 
 ## Create React Application with Typescript
 
