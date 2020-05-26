@@ -1,8 +1,7 @@
 # How-To React
 
-## Prerequisites
-
-Require NodeJS
+## Pre-Requisites
+- Require NodeJS
 
 ## Create React Application with Typescript
 
