@@ -10,7 +10,7 @@
 
 - see: https://create-react-app.dev/docs/adding-typescript/
 
-Create React application _demo-app_ 
+### Create React application template: _demo-app_ 
 
 ```bash
 mike@server:~/lab/web/sites
