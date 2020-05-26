@@ -2,10 +2,26 @@
 
 ## Prerequisites
 
-## Create React App with typescript
+Require NodeJS
 
-- see: https://create-react-app.dev/docs/adding-typescript/)
+## Create React Application with Typescript
+
+- see: https://create-react-app.dev/docs/adding-typescript/
+
+Create React application _demo-app_ 
 
 ```bash
-# npx create-react-app my-app --template typescript
+mike@server:~/lab/web/sites
+# npx create-react-app demo-app --template typescript
+npx: installed 98 in 12.386s
+
+Creating a new React app in ~/lab/web/sites/demo-app.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template-typescript...
+...
+mike@server:~/lab/web/sites
+# cd demo-app
+# ls
+node_modules/  package.json  package-lock.json  public/  README.md  src/  tsconfig.json
 ```
