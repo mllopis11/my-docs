@@ -1,11 +1,12 @@
 # How-To React
+[Homepage](https://reactjs.org/)
 
 ## Pre-Requisites
-- [NodeJS](https://nodejs.org/) _required_
-- [Yarn](https://yarnpkg.com/) _optional_
-- [VisualStudio Code (a.k.a.: VSCode](https://code.visualstudio.com/) _optional_
+- [NodeJS](https://nodejs.org/) _required_ Javascript Runtime
+- [Yarn](https://yarnpkg.com/) _optional_ You can use _npm_ instead
+- [VisualStudio Code (a.k.a.: VSCode)](https://code.visualstudio.com/) _optional_ You can use any Editor that support Typescript
 
-## Create React Application with Typescript
+## Initialize React Application with Typescript
 
 - see: https://create-react-app.dev/docs/adding-typescript/
 
