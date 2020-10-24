@@ -15,6 +15,7 @@
 ## Misc. resources
 - [Shields io](https://shields.io/) _Quality metadata badges for open source projects_
 - [Simple Icons](http://simpleicons.org/) _Free SVG icons for popular brands_
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) _Get dynamically generated GitHub stats on your readmes!_
 
 ## [React _(Facebook)_](https://reactjs.org/) 
 - [React and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/) *Spring official documentation*
