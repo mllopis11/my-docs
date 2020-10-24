@@ -12,6 +12,10 @@
 - [Bootswatch](https://bootswatch.com/)  _Free themes for Bootstrap_
 - [Bootsnipp](https://bootsnipp.com/)    _Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework_
 
+## Misc. resources
+- [Shields io](https://shields.io/) _Quality metadata badges for open source projects_
+- [Simple Icons](http://simpleicons.org/) _Free SVG icons for popular brands_
+
 ## [React _(Facebook)_](https://reactjs.org/) 
 - [React and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/) *Spring official documentation*
 - [Spring Boot and React Java Full Stack Application](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application) [[GIT]](https://github.com/in28minutes/spring-boot-react-fullstack-examples/tree/master/spring-boot-react-crud-full-stack-with-maven)
