@@ -2,7 +2,7 @@
 
 **Notes:** I use [cmder](https://cmder.net/) as bash console emulator 
 
-## Windows: GrallVM configuration for native image
+## Windows: GraalVM configuration for native image
 
 You can find the complete installation instructions here: [Configuring GraalVM: Build Executable Native Image](https://quarkus.io/guides/building-native-image#configuring-graalvm)
 
