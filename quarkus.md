@@ -2,7 +2,7 @@
 
 - [Supersonic Subatomic Java](https://quarkus.io) (_Quarkus homepage_)
 - [Getting Started](https://quarkus.io/get-started/) (_Configure Quarkus and build your first demo project_)
-- [Start Coding](https://code.quarkus.io/) (_help you to configure our project_)
+- [Start Coding](https://code.quarkus.io/) (_Help you to configure our project_)
 
 **Notes:** I use [cmder](https://cmder.net/) as bash console emulator 
 
