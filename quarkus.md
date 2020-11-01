@@ -8,7 +8,7 @@
 
 ## Windows: GraalVM configuration for native image
 
-Complete installation instructions: [Configuring GraalVM: Build Executable Native Image](https://quarkus.io/guides/building-native-image#configuring-graalvm)
+Complete installation guide: [Configuring GraalVM: Build Executable Native Image](https://quarkus.io/guides/building-native-image#configuring-graalvm)
 
 1) Install [GraalVM 20.2.x](https://www.graalvm.org/) (Java 11+)
 2) Set GRAALVM_HOME environment variable to the GraalVM installation directory
