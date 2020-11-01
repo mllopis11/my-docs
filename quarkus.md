@@ -2,9 +2,9 @@
 
 **Notes:** I use [cmder](https://cmder.net/) as bash console emulator 
 
-## GrallVM Windows configuration for native image
+## Windows: GrallVM configuration for native image
 
-Follow instructions described here: [Configuring GraalVM: Build Executable Native Image](https://quarkus.io/guides/building-native-image#configuring-graalvm)
+You can find the complete installation instructions here: [Configuring GraalVM: Build Executable Native Image](https://quarkus.io/guides/building-native-image#configuring-graalvm)
 
 1) Install [GraalVM 20.2.x](https://www.graalvm.org/) (Java 11+)
 2) Set GRAALVM_HOME environment variable to the GraalVM installation directory
