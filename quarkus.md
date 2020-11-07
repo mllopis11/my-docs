@@ -1,12 +1,18 @@
-# Quarkus
+# Quarkus KeyNotes
 
+## Quarkus website
 - [Supersonic Subatomic Java](https://quarkus.io) (_Quarkus homepage_)
 - [Getting Started](https://quarkus.io/get-started/) (_Configure Quarkus and build your first demo project_)
 - [Start Coding](https://code.quarkus.io/) (_Help you to configure our project_)
+- [Publications](https://quarkus.io/publications/) (_Usefull publications on Quarkus_)
 
-**Notes:** I use [cmder](https://cmder.net/) as bash console emulator 
+## Quarkus resources
+- [OAuth2 & Security With Keycloack](https://piotrminkowski.com/2020/09/16/quarkus-oauth2-and-security-with-keycloak/) (_PIOTR'S TECHBLOG_)
+
 
 ## Windows: GraalVM configuration for native image
+
+**Notes:** I use [Git Bash](https://git-scm.com/) as bash console emulator 
 
 Complete installation guide: [Configuring GraalVM: Build Executable Native Image](https://quarkus.io/guides/building-native-image#configuring-graalvm)
 
