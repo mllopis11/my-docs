@@ -4,7 +4,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 # How-To
 - [Java references](https://github.com/mllopis11/docs/blob/master/java.md)
 - [SpringBoot & SpringCloud](https://github.com/mllopis11/docs/blob/master/springboot.md)
-- [Quarkus](https://github.com/mllopis11/docs/blob/master/quarkus.md)
+- [Quarkus](https://github.com/mllopis11/quarkus-demo/blob/main/README.md)
 - [Amazon S3 (Simple Storage Service)](https://github.com/mllopis11/docs/blob/master/amazon-s3.md)
 - [Docker commands & Popular images](https://github.com/mllopis11/docs/blob/master/docker.md)
 - [Unix/Linux references](https://github.com/mllopis11/docs/blob/master/unix-linux.md)
