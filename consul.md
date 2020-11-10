@@ -8,7 +8,9 @@ for ensuring data stored is consistent and remains available after outages.
 
 * [Docker](https://www.docker.com/): visit [Docker Hub](https://hub.docker.com/) for Docker Desktop installation and tutorials (free registration)
 
-## Step 1: Start Primary Agent 
+## Start Docker Instances
+
+### Step 1: Start Primary Agent 
 
 We use the official Docker image (consul:latest) and provide the arguments _agent -dev_. 
 If the image is not already present, it will be downloaded first.
@@ -27,7 +29,7 @@ $ JOIN_IP=$(docker inspect --format '{{ .NetworkSettings.IPAddress }}' consul-ag
 172.18.0.2
 ```
 
-## Step 2: Add Additional Agents
+### Step 2: Add Additional Agents
 
 Once the primary agent has started, we can tell other agents to join the newly created cluster. 
 Agents register using the provided the IP address of how to communicate with another Consul agent.
@@ -54,7 +56,7 @@ Node          Address          Status  Type    Build  Protocol  DC   Segment
 f41d904bb892  172.18.0.4:8301  alive   server  1.6.1  2         dc1  <all>
 ```
 
-## Step 3: Add Additional Agents
+### Step 3: Add Additional Agents
 
 You can visit the Consul UI accessible on port 8500 via this link: http://localhost:8500/ui
 
@@ -62,7 +64,7 @@ You can visit the Consul UI accessible on port 8500 via this link: http://localh
 
 **CONGRATULATION: You now have a Consul cluster running as Docker containers.**
 
-## Simulate Outage: Stop an agent
+### Simulate Outage: Stop an agent
 
 We can simulate a network outage or machine failure, by killing the _consul-agent-dev-2_ agent:
 ```bash
@@ -78,3 +80,7 @@ Node          Address          Status  Type    Build  Protocol  DC   Segment
 456f224d8105  172.18.0.2:8301  failed  server  1.6.1  2         dc1  <all>
 f41d904bb892  172.18.0.4:8301  alive   server  1.6.1  2         dc1  <all>
 ```
+
+## Leader Election
+
+* [Baeldung: Consul Leader Election](https://www.baeldung.com/consul-leadership-election)
