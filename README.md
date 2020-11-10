@@ -12,6 +12,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 
 
 ## Miscellaneous Links
+- [Microservice Patterns](https://microservices.io/)
 - [Blog: Development the way it should be!](https://jlordiales.me/)
 - [DrawIO: Flow Web-Based Drawing](https://www.draw.io) 
 
