@@ -1,5 +1,6 @@
-## Basics
 
+
+## Basics
 - [ZIP and GZip Tutorial](http://tutorials.jenkov.com/java-zip/index.html) _Working with ZIP/GZip compression_ 
 
 ## MultiThreading
@@ -13,6 +14,8 @@
 .project
 .classpath
 .settings/
+.dbeaver/
+
 bin/
 target/
 
