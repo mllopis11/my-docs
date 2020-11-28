@@ -1,9 +1,9 @@
 
 # Spring Projects 
-
 - [Spring Project References (Pivotal)](https://spring.io/projects)
 - [Spring Cloud (Java&Moi): Many things about spring framework](http://javaetmoi.com/tag/spring-cloud)
 - [Spring Cloud Desendettement (French)](https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/)
+- [SpringDoc - Migrating from SpringFox v2 to OpenApi v3](https://springdoc.org/#migrating-from-springfox)
 
 ## Tutorials
 - [Quartz: Spring Quartz example with History](https://github.com/hawk1234/spring-quartz-example)
