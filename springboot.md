@@ -6,6 +6,7 @@
 - [SpringDoc - Migrating from SpringFox v2 to OpenApi v3](https://springdoc.org/#migrating-from-springfox)
 
 ## Tutorials
+- [Security: HTTPS SSL Certificates in SpringBoot 1 & 2](https://www.thomasvitale.com/https-spring-boot-ssl-certificate/)
 - [Quartz: Spring Quartz example with History](https://github.com/hawk1234/spring-quartz-example)
 - [Quartz: Dynamic Job Scheduling](https://juliuskrah.com/tutorial/2017/09/26/dynamic-job-scheduling-with-quartz-and-spring/) [[GIT]](https://github.com/juliuskrah/quartz-manager/tree/master)
 - [Spring-Cloud: Baeldung Tutorial](https://www.baeldung.com/spring-cloud-tutorial) [[GIT]](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-bootstrap)
