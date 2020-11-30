@@ -28,6 +28,7 @@
 - [RESTFull & Long running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 - [Feign Error Handler](https://blog.ippon.fr/2018/02/13/spring-cloud-feign-et-la-gestion-des-erreurs/)
 - [REST controller validation](https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/)
+- [Custom Error Handling in REST Controllers with Spring Boot](https://thepracticaldeveloper.com/custom-error-handling-rest-controllers-spring-boot/)
 
 ## OAuth2
 - [Pattern-Match: SpringBoot2 with OAuth2 integration #1](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/)
