@@ -22,6 +22,7 @@
 - [Eureka: Secure Discovery Service](https://dzone.com/articles/secure-discovery-with-spring-cloud-netflix-eureka)
 - [Caching Made Bootiful: Spring Cache + Hazelcast](https://memorynotfound.com/spring-boot-hazelcast-caching-example-configuration/)
 - [Docker/Consul: Distributed services configuration with SpringCloud/Consul/Docker](https://programmaticponderings.com/2017/02/28/distributed-service-configuration-with-consul-spring-cloud-and-docker-2/)
+- [Spring’s Lightweight JPA/Hibernate Alternatives](https://4comprehension.com/lightweight-jpa-hibernate-alternatives/)
 
 ## API (REST)
 - [RESTFull API Design](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html)
