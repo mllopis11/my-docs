@@ -3,7 +3,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 
 # Java & SpringBoot WebSites
 - [reflectoring.io](https://reflectoring.io/) Tutorials on Spring Boot and Java
-- [Piotr's TechBlog](https://piotrminkowski.com)[GIT](https://github.com/piomin) Java, Spring, Kotlin, microservices, Kubernetes, containers
+- [Piotr's TechBlog](https://piotrminkowski.com) [GIT](https://github.com/piomin) Java, Spring, Kotlin, microservices, Kubernetes, containers
 
 # How-To
 - [Java references](https://github.com/mllopis11/docs/blob/master/java.md)
