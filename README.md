@@ -1,8 +1,8 @@
 # Wiki
 Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation. 
 
-# Valuable Java & SpringBoot WebSites
-- [reflectoring.io](https://reflectoring.io/)
+# Java & SpringBoot WebSites
+- [reflectoring.io](https://reflectoring.io/) Tutorials on Spring Boot and Java
 - [Piotr's TechBlog](https://piotrminkowski.com) Java, Spring, Kotlin, microservices, Kubernetes, containers
 
 # How-To
@@ -13,7 +13,6 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [Docker commands & Popular images](https://github.com/mllopis11/docs/blob/master/docker.md)
 - [Unix/Linux references](https://github.com/mllopis11/docs/blob/master/unix-linux.md)
 - [Technologies Documentations](https://devdocs.io/)
-
 
 ## Miscellaneous Links
 - [Microservice Patterns](https://microservices.io/)
