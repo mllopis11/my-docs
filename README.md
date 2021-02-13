@@ -26,6 +26,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [SPRING: Quickstart with microservices](https://medium.com/@leo.ertuna/quickstart-with-java-spring-boot-mircoservices-b67d63fd19d1)
 - [SPRING: Google Sign-In](https://yatheesanc9.medium.com/spring-boot-with-google-sign-in-8e304dbe936e)
 - [SPRING: Spring State Machine implementation](https://medium.com/@hareesh.veduraj/spring-boot-using-spring-state-machine-1c5a6d35b9ad)
+- [SPRING: Proxy Jackson’s JsonNode for Payload unaware request Handling](https://medium.com/@saibaburvr/spring-rest-jacksons-jsonnode-for-payload-unaware-request-handling-25a09e2b1ef5)
 
 - [JAVA: What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
 - [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
