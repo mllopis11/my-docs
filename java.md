@@ -9,13 +9,15 @@
 
 ### Basics
 - [ZIP and GZip Tutorial](http://tutorials.jenkov.com/java-zip/index.html) _Working with ZIP/GZip compression_ 
+- [What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
+- [How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
+- [Framework-less REST API](https://medium.com/consulner/framework-less-rest-api-in-java-dd22d4d642fa)
+- [Generics — Advanced Cases](https://levelup.gitconnected.com/java-generics-advanced-cases-d05db19b47d5)
 
 ### MultiThreading
 - [CompletableFuture (T. Nurkiewicz)](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html) _Definitive guide to CompletableFuture_
 
-## IDE
-
-### GIT
+## GIT
 
 **gitignore addons**
 ```
