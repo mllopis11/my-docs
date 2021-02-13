@@ -54,6 +54,9 @@ $ docker run -d --name es7-mem -p 9200:9200 -p 9300:9300 -e "discovery.type=sing
 ```
 
 ## Links
+- [DOCKER: Dockerize your Java Application](https://medium.com/faun/dockerize-your-java-application-ec7ac056d066)
+
 https://www.metal3d.org/ Blog en francais (Docker, Angular ...)  
 https://medium.com/dot-debug/running-chrome-in-a-docker-container-a55e7f4da4a8 Chrome in a container
 https://engineering.riotgames.com/news/putting-jenkins-docker-container Jenkins in Docker
+
