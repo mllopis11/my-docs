@@ -15,21 +15,23 @@
 
 ## IDE
 
-### Eclipse
+### GIT
 
 **gitignore addons**
 ```
-# Eclipse and Project Folders
+# Eclipse
 .project
 .classpath
 .settings/
 .dbeaver/
 
+# Idea
+.idea
+
+# Project
 bin/
 target/
-
 run*/
 *secret*
 *local*
-*zshared*
 ```
