@@ -21,7 +21,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [SPRING: Monitoring with prometheus and grafana and log aggregation using ELK stack: Part II](https://medium.com/nerd-for-tech/building-spring-boot-microservices-monitoring-with-prometheus-and-grafana-and-log-aggregation-5ed9ca7dda36)
 - [SPRING: An effective way to use Enums in your Spring application](https://medium.com/javarevisited/an-effective-way-to-use-java-enums-in-your-spring-application-485c969794a8)
 - [SPRING: Validation and Exception Handling](https://medium.com/sprang/validation-and-exception-handling-with-spring-ba44b3ee0723)
-- [SPRING: Build your own Spring Boot Starter](https://medium.com/@asegu/build-your-own-spring-boot-starter-90ad1f426227)
+- [SPRING: Build your own Spring Boot Starter Part I](https://medium.com/@asegu/build-your-own-spring-boot-starter-90ad1f426227)[Part II](https://medium.com/@asegu/why-a-spring-boot-developer-could-die-without-spring-boot-starter-properties-11c5d6bf459a)
 
 - [JAVA: What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
 - [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
