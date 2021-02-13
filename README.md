@@ -28,6 +28,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [SPRING: Spring State Machine implementation](https://medium.com/@hareesh.veduraj/spring-boot-using-spring-state-machine-1c5a6d35b9ad)
 - [SPRING: Proxy Jackson’s JsonNode for Payload unaware request Handling](https://medium.com/@saibaburvr/spring-rest-jacksons-jsonnode-for-payload-unaware-request-handling-25a09e2b1ef5)
 - [SPRING: Guide to JPA with Hibernate (Relationship Mappings)](https://ankitkamboj18.medium.com/a-guide-to-jpa-with-hibernate-relationship-mappings-onetoone-onetomany-manytoone-310ce31df3f6)
+- [SPRING: build a token-based authentication server](https://levelup.gitconnected.com/learn-how-to-build-a-token-based-authentication-server-using-spring-boot-and-spring-security-14a82d186f88)
 
 - [JAVA: What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
 - [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
