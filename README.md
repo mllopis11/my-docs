@@ -35,6 +35,8 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
 - [JAVA: Framework-less REST API](https://medium.com/consulner/framework-less-rest-api-in-java-dd22d4d642fa)
 
+- [DOCKER: Dockerize your Java Application](https://medium.com/faun/dockerize-your-java-application-ec7ac056d066)
+
 ## Miscellaneous Links
 - [Microservice Patterns](https://microservices.io/)
 - [DrawIO: Flow Web-Based Drawing](https://www.draw.io) 
