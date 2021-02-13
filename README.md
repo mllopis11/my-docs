@@ -24,7 +24,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [SPRING: Build your own Spring Boot Starter Part I](https://medium.com/@asegu/build-your-own-spring-boot-starter-90ad1f426227)
 - [SPRING: Build your own Spring Boot Starter Part II](https://medium.com/@asegu/why-a-spring-boot-developer-could-die-without-spring-boot-starter-properties-11c5d6bf459a)
 - [SPRING: Quickstart with microservices](https://medium.com/@leo.ertuna/quickstart-with-java-spring-boot-mircoservices-b67d63fd19d1)
-
+- [SPRING: Google Sign-In](https://yatheesanc9.medium.com/spring-boot-with-google-sign-in-8e304dbe936e)
 - [JAVA: What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
 - [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
 - [JAVA: Framework-less REST API](https://medium.com/consulner/framework-less-rest-api-in-java-dd22d4d642fa)
