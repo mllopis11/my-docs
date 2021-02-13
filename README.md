@@ -15,14 +15,16 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [Technologies Documentations](https://devdocs.io/)
 
 # Articles
-- [What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
-- [How to Make Your Reviewer Cry Using Java Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
-- [Json Web Token: How to Secure Spring Boot REST API](https://medium.com/dev-genius/json-web-token-how-to-secure-spring-boot-rest-api-4be1369009b0)
-- [SpringBoot : Migrating from Springfox Swagger 2 to Springdoc OpenAPI 3](https://deepak-shinde.medium.com/migrating-from-springfox-swagger-2-to-springdoc-openapi-3-79a79757b8d1)
-- [Spring Boot Microservices, Monitoring with prometheus and grafana and log aggregation using ELK stack: Part I](https://medium.com/nerd-for-tech/creating-spring-boot-microservices-monitoring-with-prometheus-and-grafana-and-log-aggregation-ba4f20496942)
-- [Spring Boot Microservices, Monitoring with prometheus and grafana and log aggregation using ELK stack: Part II](https://medium.com/nerd-for-tech/building-spring-boot-microservices-monitoring-with-prometheus-and-grafana-and-log-aggregation-5ed9ca7dda36)
-- [An effective way to use Java Enums in your Spring application](https://medium.com/javarevisited/an-effective-way-to-use-java-enums-in-your-spring-application-485c969794a8)
-- [Validation and Exception Handling with Spring](https://medium.com/sprang/validation-and-exception-handling-with-spring-ba44b3ee0723)
+- [SPRING: JWT - How to Secure Spring Boot REST API](https://medium.com/dev-genius/json-web-token-how-to-secure-spring-boot-rest-api-4be1369009b0)
+- [SPRING: Migrating from Springfox Swagger 2 to Springdoc OpenAPI 3](https://deepak-shinde.medium.com/migrating-from-springfox-swagger-2-to-springdoc-openapi-3-79a79757b8d1)
+- [SPRING: Monitoring with prometheus and grafana and log aggregation using ELK stack: Part I](https://medium.com/nerd-for-tech/creating-spring-boot-microservices-monitoring-with-prometheus-and-grafana-and-log-aggregation-ba4f20496942)
+- [SPRING: Monitoring with prometheus and grafana and log aggregation using ELK stack: Part II](https://medium.com/nerd-for-tech/building-spring-boot-microservices-monitoring-with-prometheus-and-grafana-and-log-aggregation-5ed9ca7dda36)
+- [SPRING: An effective way to use Enums in your Spring application](https://medium.com/javarevisited/an-effective-way-to-use-java-enums-in-your-spring-application-485c969794a8)
+- [SPRING: Validation and Exception Handling](https://medium.com/sprang/validation-and-exception-handling-with-spring-ba44b3ee0723)
+
+- [JAVA: What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
+- [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
+- [JAVA: Framework-less REST API](https://medium.com/consulner/framework-less-rest-api-in-java-dd22d4d642fa)
 
 ## Miscellaneous Links
 - [Microservice Patterns](https://microservices.io/)
