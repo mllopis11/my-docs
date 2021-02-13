@@ -34,6 +34,7 @@ Visit [Wiki](https://github.com/mllopis11/docs/wiki) for more documentation.
 - [JAVA: What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
 - [JAVA: How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
 - [JAVA: Framework-less REST API](https://medium.com/consulner/framework-less-rest-api-in-java-dd22d4d642fa)
+- [JAVA: Generics — Advanced Cases](https://levelup.gitconnected.com/java-generics-advanced-cases-d05db19b47d5)
 
 - [DOCKER: Dockerize your Java Application](https://medium.com/faun/dockerize-your-java-application-ec7ac056d066)
 
