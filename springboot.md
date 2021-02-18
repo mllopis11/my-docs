@@ -32,6 +32,7 @@
 - [Caching Made Bootiful: Spring Cache + Hazelcast](https://memorynotfound.com/spring-boot-hazelcast-caching-example-configuration/)
 - [Docker/Consul: Distributed services configuration with SpringCloud/Consul/Docker](https://programmaticponderings.com/2017/02/28/distributed-service-configuration-with-consul-spring-cloud-and-docker-2/)
 - [Spring’s Lightweight JPA/Hibernate Alternatives](https://4comprehension.com/lightweight-jpa-hibernate-alternatives/)
+- [Realtime web notification Using Apache Kafka, Spring WebSocket and Angular](https://boottechnologies-ci.medium.com/realtime-web-notification-using-apache-kafka-spring-websocket-and-angular-67bf00982989)
 
 ## API (REST)
 - [RESTFull API Design](https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/index.html)
