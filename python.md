@@ -8,5 +8,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> exit()
 ```
 ## Resources
-- RealPython courses [RealPython](https://realpython.com/courses/)
-- Python REST APIs With Flask, Connexion, and SQLAlchemy [RealPython](https://realpython.com/flask-connexion-rest-api/)]
+- RealPython courses [[RealPython](https://realpython.com/courses/)]
+- Python REST APIs With Flask, Connexion, and SQLAlchemy [[RealPython](https://realpython.com/flask-connexion-rest-api/)]
