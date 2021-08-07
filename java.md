@@ -13,6 +13,8 @@
 - [How to Make Your Reviewer Cry Using Optional](https://dante0747.medium.com/how-to-make-your-reviewer-cry-using-java-optional-da5a32db4fba)
 - [Framework-less REST API](https://medium.com/consulner/framework-less-rest-api-in-java-dd22d4d642fa)
 - [Generics — Advanced Cases](https://levelup.gitconnected.com/java-generics-advanced-cases-d05db19b47d5)
+- [Front-Backed](https://frontbackend.com/) _Repository full of useful scripts, tutorials, web tools, code examples, snippets, solved problems and programming tricks, crafted for anyone who is using web technologies to create awesome projects._
+
 
 ### MultiThreading
 - [CompletableFuture (T. Nurkiewicz)](https://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html) _Definitive guide to CompletableFuture_
