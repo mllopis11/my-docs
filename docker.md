@@ -8,11 +8,11 @@ docker version | Docker version
 docker info | Docker info
 docker build -t *tag-name* | Creates a Docker image tagged (-t) with friendly name
 docker images | Docker image registry
-docker rm *Container NAME or ID* | Remove an image
+docker rm *NAME* or *ID* | Remove an image
 docker ps -a | List containers details
 docker ps *or* docker container ls  | List the running containers
-docker start *name or id* | Start an existing container image
-docker stop *name or id* | Stop a container
+docker start *NAME* or *ID* | Start an existing container image
+docker stop *NAME* or *ID* | Stop a container
 docker run -d -p 4000:80 *tag-name* | Run app in detached mode (-d), mapping machine’s port 4000 to the container’s port 80 (-p) and create a new container identified with the *tag-name*
 docker exec -it *name* sh | Go into the container and start a shell 
 
