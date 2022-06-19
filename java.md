@@ -7,6 +7,8 @@
 
 ## Tutorials & Examples
 
+[Awesome Java](https://github.com/akullpp/awesome-java) A curated list of awesome Java frameworks, libraries and software.
+
 ### Basics
 - [ZIP and GZip Tutorial](http://tutorials.jenkov.com/java-zip/index.html) _Working with ZIP/GZip compression_ 
 - [What happened to Java after 8? Java 15 and the Future](https://medium.com/blue-harvest-tech-blog/what-happened-to-java-after-8-java-15-and-the-future-8a005edcc013)
