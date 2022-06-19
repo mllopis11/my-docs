@@ -1,7 +1,7 @@
 # Everything about JAVA
 
-[OpenJdk Git Repository](https://github.com/openjdk/)
-[Java 17 Git Source Code](https://github.com/openjdk/jdk/tree/jdk-17%2B35/src/java.base/share/classes/java)
+- [OpenJdk Git Repository](https://github.com/openjdk/)
+- [Java 17 Git Source Code](https://github.com/openjdk/jdk/tree/jdk-17%2B35/src/java.base/share/classes/java)
 
 ## Upgrade to JDK 11+
 
